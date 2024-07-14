@@ -1,0 +1,1 @@
+{"name":"Local: linkedlilst","url":"f:\\CPP\\DSA\\linkedlist\\linkedlilst.cpp","tests":[{"id":1720709064999,"input":"1 2 3 4 5 -1\n0 6\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CPP\\DSA\\linkedlist\\linkedlilst.cpp","group":"local","local":true}
